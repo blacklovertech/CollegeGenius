@@ -9,7 +9,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "csv": "^3.1.0",
-    "global": "^4.3.2",
+    "global": "^4.4.0",
     "keystone": "^4.0.0",
     "lodash": "^4.17.10",
     "node-supervisor": "^1.0.2",
